@@ -3,7 +3,8 @@ Programa que calcula la mínima cantidad de baldosas posibles (de 2^i x 2^i) en 
 
 - - - - - -
 
-Consigna
+Consigna:
+
 Dada un área de N x M, y teniendo una provisión infinita de baldosas de tamaños 2^i x 2^i, donde i es un número entero positivo. La tarea es encontrar el mínimo número de baldosas requeridas para rellenar el área dada completamente.
 Este problema debe resolverse exclusivamente con recursividad.
 
